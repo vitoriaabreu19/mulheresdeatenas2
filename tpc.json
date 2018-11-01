@@ -1,0 +1,163 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Sim",
+        "Não",
+        "Não sei"
+        
+      ],
+      "correct": {
+        "index": 1,
+        "text": ""
+      },
+      "image": "img/img1.jpg",
+      "number": 1,
+      "prompt": "Você considera o relacionamento com seu parceiro saudável?"
+    },
+    {
+      "answers": [
+        "Não",
+        "Sim"
+        
+      ],
+      "correct": {
+        "index": 1,
+        "text": ""
+      },
+      "image": "img/img2.jpg",
+      "number": 2,
+      "prompt": "Ele já reclamou de você ter amigos homens/Mulheres e pediu para se afastar?"
+    },
+    {
+      "answers": [
+        "Sim",
+        "Não",
+        "Ás vezes"
+        
+        
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "img/img3.jpg",
+      "number": 3,
+      "prompt": "Na hora de uma briga ou discussão, ele grita com você?"
+    },
+    {
+      "answers": [
+        "Sim",
+        "Não"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "img/img4.jpg",
+      "number": 4,
+      "prompt": "Ele já te ameaçou verbalmente? (Ameças como: Te perseguir, terminar o relacionamento, expor você)"
+    },
+    {
+      "answers": [
+        "Sim",
+        "Nunca aconteceu isso comigo"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "img/img5.jpg",
+      "number": 5,
+      "prompt": "Ele já te humilhou, xingou ou diminuiu sua autoestima na frente de amigos, parentes ou até mesmo quando estavam a sós?"
+    },
+    {
+      "answers": [
+        "Sim, sempre que brigamos",
+        "Não"
+        
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "img/img6.jpg",
+      "number": 6,
+      "prompt": "Ele faz promessas de que vai mudar suas atitudes agressivas, mas não muda?"
+    },
+    {
+      "answers": [
+        "Sim",
+        "Nunca"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "img/img7.jpg",
+      "number": 7,
+      "prompt": "Você já sentiu a necessidade de pedir permissão do seu parceiro para sair?"
+    },
+    {
+      "answers": [
+        "Sim, muito",
+        "Não",
+        "Não sei"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "img/img8.jpg",
+      "number": 8,
+      "prompt": "Seu parceira é ciumento?"
+    },
+    {
+      "answers": [
+        "Sim",
+        "Não, nunca foi disso",
+        "Ás vezes"
+        
+      ],
+      "correct": {
+        "index": 2,
+        "text": ""
+      },
+      "image": "img/img9.jpg",
+      "number": 9,
+      "prompt": "Ele faz questão de saber onde e com quem você está?"
+    },
+    {
+      "answers": [
+        "Sim",
+        "Nunca"
+        
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "img/img10.jpg",
+      "number": 10,
+      "prompt": "Ele já exigiu que você fizesse coisas contra a sua vontade? (Incluindo sexo)?"
+    },
+    {
+      "answers": [
+        "Sim",
+        "Nunca"
+        
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "img/img10.jpg",
+      "number": 10,
+      "prompt": "Ele já te agrediu ou te agride fisicamente?"
+    }
+
+  
+  ],
+  "title": " Mulheres de Atenas Quiz",
+  "url": "http://apps-staging.urban.org/features/quick-quiz/"
+}
